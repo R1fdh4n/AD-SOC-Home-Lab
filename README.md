@@ -28,7 +28,7 @@ The objective of this project is to create a home lab that integrates an Active 
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+drag & drop screenshots here or use imgur and reference 
 
 Every screenshot should have some text explaining what the screenshot is about.
 
