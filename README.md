@@ -4,7 +4,7 @@ This lab integrates Active Directory with a SOC using Splunk, focusing on AD man
 
 ## Objective
 
-The objective of this project is to create a home lab that integrates an Active Directory (AD) environment with a Security Operations Center (SOC) using Splunk. This lab aims to simulate real-world enterprise scenarios, focusing on AD administration, centralized log management, and threat detection. The setup will allow for hands-on experience in monitoring, detecting, and responding to security incidents, while also practicing incident response workflows and SOC operations.
+The objective of this project is to create a home lab that integrates an Active Directory (AD) environment with a Security Operations Center (SOC) using Splunk. This lab aims to simulate real-world enterprise scenarios, focusing on AD administration, centralized log management, and threat detection. The setup will allow for hands-on experience in monitoring, detecting, and responding to security incidents, while also practicing incident response workflows and `SOC operations`.
 
 ### Skills Learned
 
