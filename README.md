@@ -34,9 +34,14 @@ The objective of this project is to create a home lab that integrates an Active 
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Environment Setup
+Register an account at <a href="https://idp.login.splunk.com/signin/register">Splunk</a> <br>
+Download and install <a href="https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html">Oracle VM VirtualBox</a> 
 
 - Local Operating System: 'Windows' Workstation or any Linux OS.
 - Security Monitoring: We will install 'Sysmon' on both of the Windows instances for detailed system activity logging.
 - Log Forwarding: We will install 'Splunk Universal Forwarder' on both of the Windows instances for log forwarding.
 - Log Analysis: We will utilize 'Ubuntu Server' to host 'Splunk Server'.
-- Active Directory: One of the Windows servers will serve as our Active Directory domain controller. We will install and configure Active Directory Domain Services on this server.
+- Active Directory: One of the Windows servers will serve as our Active Directory domain controller. Install and configure Active Directory Domain Services on this server.
+
+ ## Installation
+
