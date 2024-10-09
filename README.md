@@ -33,9 +33,10 @@ The objective of this project is to create a home lab that integrates an Active 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
+## Environment Setup
 
-## Acknowledgments:
-I would like to express my gratitude to the creators and developers of the tools and scripts used in this project. Without their dedication and innovation, such advancements in cybersecurity would not be possible.
-
-A special thanks to the MyDFIR, for his valuable contribution without his help it wouldn't have been possible to complete this project.
+- Local Operating System: 'Windows' Workstation or any Linux OS.
+- Security Monitoring: We will install 'Sysmon' on both of the Windows instances for detailed system activity logging.
+- Log Forwarding: We will install 'Splunk Universal Forwarder' on both of the Windows instances for log forwarding.
+- Log Analysis: We will utilize 'Ubuntu Server' to host 'Splunk Server'.
+- Active Directory: One of the Windows servers will serve as our Active Directory domain controller. We will install and configure Active Directory Domain Services on this server.
